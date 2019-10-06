@@ -39,14 +39,14 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/21774</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<dc:source>https://archive.org/details/PracticalMysticism</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Practical_Mysticism</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/evelyn-underhill_practical-mysticism</meta>
 		<dc:creator id="author">Evelyn Underhill</dc:creator>
 		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Evelyn Underhill</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Evelyn_Underhill</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">AUTHOR_NACOAF_URL</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -59,9 +59,9 @@
 		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
 		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
+		<dc:contributor id="producer-1">Steven McCurdy</dc:contributor>
 		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://metagnosis.xyz</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
