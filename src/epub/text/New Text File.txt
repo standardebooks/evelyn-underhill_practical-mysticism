@@ -9,7 +9,7 @@
 		<section id="halftitlepage" epub:type="halftitlepage">
 			<h1 epub:type="fulltitle">
 				<span epub:type="title">Practical Mysticism</span>
-				<span epub:type="subtitle">A Little Book for Normal People</span>
+				<span epub:type="A Little Book for Normal People</span>
 			</h1>
 		</section>
 	</body>
