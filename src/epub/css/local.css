@@ -41,3 +41,10 @@ section[epub|type~="epigraph"] > *{
 		margin: 0;
 	}
 }
+
+/* dedication */
+section[epub|type~="dedication"] p{
+	margin: 25% auto;
+	text-align: center;
+	text-indent: 0;
+}
