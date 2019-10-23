@@ -26,11 +26,6 @@ section[epub|type~="epigraph"] > *{
 	text-align: left;
 }
 
-section[epub|type~="epigraph"] footer{ 
-	text-align: right;
-	margin-top: 1em;
-}
-
 @supports(display: flex){
 	section[epub|type~="epigraph"]{
 		align-items: center;
@@ -52,4 +47,10 @@ section[epub|type~="dedication"] p{
 	margin: 25% auto;
 	text-align: center;
 	text-indent: 0;
+}
+
+/* preface */
+section[epub|type~="preface"] footer{ 
+	text-align: right;
+	margin-top: 1em;
 }
