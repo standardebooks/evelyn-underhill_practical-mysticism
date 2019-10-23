@@ -26,6 +26,11 @@ section[epub|type~="epigraph"] > *{
 	text-align: left;
 }
 
+section[epub|type~="epigraph"] footer{ 
+	text-align: right;
+	margin-top: 1em;
+}
+
 @supports(display: flex){
 	section[epub|type~="epigraph"]{
 		align-items: center;
