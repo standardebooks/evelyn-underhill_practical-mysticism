@@ -25,7 +25,7 @@
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
-		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
+		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Practical Mysticism</dc:title>
 		<meta property="file-as" refines="#title">Practical Mysticism</meta>
@@ -39,7 +39,7 @@
 		<dc:description id="description">Evelyn Underhill makes the case that mysticism is accessible and beneficial to everyone.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Surprisingly timeless and under the guise of “Christian Mysticism”, Underhill describes in 1914 what could rightly be called “secular mindfulness” today. Evelyn Underhill doesn't use much Christian terminology, instead she prefers to use words that may be considered “new age.” If one can get past the terminology the “Practical Mysticism” allows anyone to explore the mystical aspects of their own worldview without necessarily betraying their prior deeply held beliefs.&lt;/p&gt;
-			&lt;p&gt;“Practical Mysticism” isn't a guidebook for mystical practice, though it does provide some tips along the way. What it does give is an introduction  and apology for the sufficiently motivated; those that see (or want to see) the world in a different way.&lt;/p&gt; 
+			&lt;p&gt;&lt;i&gt;Practical Mysticism&lt;/i&gt; isn't a guidebook for mystical practice, though it does provide some tips along the way. What it does give is an introduction  and apology for the sufficiently motivated; those that see (or want to see) the world in a different way.&lt;/p&gt; 
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/21774</dc:source>
@@ -51,13 +51,13 @@
 		<dc:creator id="author">Evelyn Underhill</dc:creator>
 		<meta property="file-as" refines="#author">Underhill, Evelyn</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Evelyn_Underhill</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79026720.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79026720</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Raphael</dc:contributor>
 		<meta property="file-as" refines="#artist">Raphael</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://wikipedia.org/wiki/Raphael</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79041756.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79041756</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Ruth Hart</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Hart, Ruth</meta>
