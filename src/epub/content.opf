@@ -29,7 +29,7 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Practical Mysticism</dc:title>
 		<meta property="file-as" refines="#title">Practical Mysticism</meta>
-        <dc:title id="subtitle">A Little Book for Normal People</dc:title>
+		<dc:title id="subtitle">A Little Book for Normal People</dc:title>
 		<meta property="file-as" refines="#subtitle">Little Book for Normal People, A</meta>
 		<dc:subject id="subject-1">Mysticism</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
@@ -38,8 +38,8 @@
 		<meta property="se:subject">Spirituality</meta>
 		<dc:description id="description">Evelyn Underhill makes the case that mysticism is accessible and beneficial to everyone.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Surprisingly timeless and under the guise of “Christian Mysticism”, Underhill describes in 1914 what could rightly be called “secular mindfulness” today. Evelyn Underhill doesn't use much Christian terminology, instead she prefers to use words that may be considered “new age.” If one can get past the terminology the “Practical Mysticism” allows anyone to explore the mystical aspects of their own worldview without necessarily betraying their prior deeply held beliefs.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Practical Mysticism&lt;/i&gt; isn't a guidebook for mystical practice, though it does provide some tips along the way. What it does give is an introduction  and apology for the sufficiently motivated; those that see (or want to see) the world in a different way.&lt;/p&gt; 
+			&lt;p&gt;Surprisingly timeless and under the guise of “Christian Mysticism,” Underhill describes in 1914 what could rightly be called “secular mindfulness” today. Evelyn Underhill doesn&apos;t use much Christian terminology, instead she prefers to use words that may be considered “new age.” If one can get past the terminology the “Practical Mysticism” allows anyone to explore the mystical aspects of their own worldview without necessarily betraying their prior deeply held beliefs.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Practical Mysticism&lt;/i&gt; is not a guidebook for mystical practice, though it does provide some tips along the way. What it does give is an introduction and apology for the sufficiently motivated; those that see (or want to see) the world in a different way.&lt;/p&gt; 
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/21774</dc:source>
