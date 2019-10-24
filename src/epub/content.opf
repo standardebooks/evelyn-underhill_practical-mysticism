@@ -54,8 +54,8 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79026720</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">Raphael</dc:contributor>
-		<meta property="file-as" refines="#artist">Raphael</meta>
+		<dc:contributor id="artist">Raffaello Sanzio</dc:contributor>
+		<meta property="file-as" refines="#artist">Sanzio, Raffaello</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://wikipedia.org/wiki/Raphael</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79041756</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
