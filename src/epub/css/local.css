@@ -1,19 +1,26 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-
 /* subtitle */
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
 
-/* epigraphs */
+/* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
 }
 
+[epub|type~="epigraph"] cite{
+	margin-top: 1em;
+	font-style: normal;
+	font-variant: small-caps;
+}
+/* End all epigraphs */
+
+/* Full-page epigraphs */
 section[epub|type~="epigraph"]{
 	text-align: center;
 }
@@ -41,6 +48,7 @@ section[epub|type~="epigraph"] > *{
 		margin: 0;
 	}
 }
+/* End full-page epigraphs */
 
 /* dedication */
 section[epub|type~="dedication"] p{
