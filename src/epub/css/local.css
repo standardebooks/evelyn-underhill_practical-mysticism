@@ -58,9 +58,9 @@ section[epub|type~="dedication"] p{
 }
 
 /* preface */
-section[epub|type~="preface"] footer{
-	text-align: right;
+footer{
 	margin-top: 1em;
+	text-align: right;
 }
 
 /* verse */
@@ -91,4 +91,8 @@ p span.i1{
 p span.i2{
 	text-indent: -1em;
 	padding-left: 3em;
+}
+
+.signature{
+	font-variant: small-caps;
 }
