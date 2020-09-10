@@ -91,6 +91,6 @@ p span.i2{
 	padding-left: 3em;
 }
 
-[epub:type~="z3998:signature"]{
+[epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
