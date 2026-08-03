@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/evelyn-underhill/practical-mysticism</dc:identifier>
 		<dc:date>2019-10-30T20:22:03Z</dc:date>
@@ -42,11 +42,11 @@
 		<meta property="term" refines="#subject-1">sh85089345</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Spirituality</meta>
-		<dc:description id="description">Evelyn Underhill makes the case that mysticism is accessible and beneficial to everyone.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Evelyn Underhill makes the case that mysticism is accessible and beneficial to everyone.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Surprisingly timeless and under the guise of “Christian Mysticism,” &lt;a href="https://standardebooks.org/ebooks/evelyn-underhill"&gt;Underhill&lt;/a&gt; describes in 1914 what could rightly be called “secular mindfulness” today. Evelyn Underhill doesn’t use much Christian terminology, instead preferring to use words that may be considered “new age.” If one can get past the terminology, the “Practical Mysticism” allows anyone to explore the mystical aspects of their own worldview without necessarily betraying their prior deeply held beliefs.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Practical Mysticism&lt;/i&gt; is not a guidebook for mystical practice, though it does provide some tips along the way. What it does give is an introduction and apology for the sufficiently motivated; those that see (or want to see) the world in a different way.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/21774</dc:source>
 		<dc:source>https://archive.org/details/PracticalMysticism</dc:source>
